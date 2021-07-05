@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dylancherry98@gmail.com
+	name = Dylan Cherry
